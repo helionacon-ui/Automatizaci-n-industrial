@@ -1,6 +1,6 @@
 # Automatización Industrial · Guía para aprobar
 
-Guía de estudio no oficial de **Automatización Industrial** (Grado en Ingeniería Electrónica y Automática, UPCT), construida a partir del material de la asignatura: problemas y exámenes resueltos, entregables de las sesiones de prácticas con FluidSim y TIA Portal, y los enunciados de los simuladores Lucas-Nülle.
+Guía de estudio no oficial de **Automatización Industrial** (Grado en Ingeniería Electrónica y Automática), construida a partir del material de la asignatura: problemas y exámenes resueltos, entregables de las sesiones de prácticas con FluidSim y TIA Portal, y los enunciados de los simuladores Lucas-Nülle.
 
 ## Qué contiene
 
@@ -15,4 +15,4 @@ Las páginas son HTML estático sin dependencias. Abre `index.html` o publícalo
 
 ---
 
-No es material oficial de la UPCT. Comprueba siempre la guía docente del curso vigente.
+No es material oficial de la universidad. Comprueba siempre la guía docente del curso vigente.
