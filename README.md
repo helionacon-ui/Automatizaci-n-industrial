@@ -1,4 +1,4 @@
-# Automatización Industrial · Guía para aprobar
+# Automatización Industrial · Apuntes
 
 Guía de estudio no oficial de **Automatización Industrial** (Grado en Ingeniería Electrónica y Automática), construida a partir del material de la asignatura: problemas y exámenes resueltos, entregables de las sesiones de prácticas con FluidSim y TIA Portal, y los enunciados de los simuladores Lucas-Nülle.
 
